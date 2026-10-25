@@ -2,6 +2,8 @@
 
 A browser game from Codecademy's Full-Stack Engineer path where you play against the computer. Each round a secret number from 0 to 9 is picked, you and the computer both guess, and whoever is closer wins the round. Ties go to you.
 
+Live site: https://ktforge.github.io/Number-Guesser/
+
 Codecademy provided the page, the styles, and the game wiring in `game.js`. My part was `script.js`, the logic that actually runs the game:
 
 `generateTarget()` picks the secret number
